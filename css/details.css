@@ -19,6 +19,7 @@
 	border: 2px solid red;
 	margin: 10px;
 	text-align: center;
+	padding: 10px;
 }
 .item h2{
 	font-size: 22px;
@@ -26,4 +27,5 @@
 }
 .materials-a{
 	display: flex;
+	flex-wrap: wrap;
 }
